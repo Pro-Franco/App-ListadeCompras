@@ -29,3 +29,26 @@
    git branch -M main
    git push -u origin main
 ```
+
+
+## Tipagem TypeScript
+
+```bash
+   type ItemCompra = {
+      id: string
+      nome: string
+      comprado: boolean
+   }
+``` 
+
+
+## Estado
+useState<ItemCompra[]>([])
+
+## Manipulação de listas
+map()
+filter()
+
+## Eventos
+onPress
+onChangeText
