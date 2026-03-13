@@ -1,13 +1,14 @@
 # Bem vindo ao App-ListaDeCompras 👋
 
 ## Criando git do projeto
-
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/Pro-Franco/App-ListadeCompras.git
-git push -u origin main
+```bash
+   git init
+   git add README.md
+   git commit -m "first commit"
+   git branch -M main
+   git remote add origin https://github.com/Pro-Franco/App-ListadeCompras.git
+   git push -u origin main
+```
 
 ## Iniciando Projeto
 
@@ -23,6 +24,8 @@ git push -u origin main
    npx expo start
    ```
 ## Baixando repositório
-git remote add origin https://github.com/Pro-Franco/App-ListadeCompras.git
-git branch -M main
-git push -u origin main
+```bash
+   git remote add origin https://github.com/Pro-Franco/App-ListadeCompras.git
+   git branch -M main
+   git push -u origin main
+```
