@@ -43,12 +43,18 @@
 
 
 ## Estado
+```bash
 useState<ItemCompra[]>([])
+```
 
 ## Manipulação de listas
-map()
-filter()
+```bash
+   map()
+   filter()
+```
 
 ## Eventos
-onPress
-onChangeText
+```bash
+   onPress
+   onChangeText
+```
